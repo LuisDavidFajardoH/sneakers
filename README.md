@@ -1,4 +1,4 @@
-# Proyecto de Prueba para Trabajo
+# Proyecto de Prueba Tienda Sneakers
 
 Este proyecto ha sido desarrollado como parte de una prueba de trabajo. Utiliza un stack de tecnologías que incluye React para el front-end, junto con Node.js y Express para el back-end. La base de datos utilizada es MongoDB.
 
